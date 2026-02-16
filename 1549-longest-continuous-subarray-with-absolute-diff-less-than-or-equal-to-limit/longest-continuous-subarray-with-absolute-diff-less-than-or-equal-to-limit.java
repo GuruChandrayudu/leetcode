@@ -2,36 +2,41 @@ import java.util.*;
 
 class Solution {
     public int longestSubarray(int[] nums, int limit) {
-        Deque<Integer> maxDeque = new LinkedList<>();
-        Deque<Integer> minDeque = new LinkedList<>();
+
+        Deque<Integer> maxD = new LinkedList<>();
+        Deque<Integer> minD = new LinkedList<>();
 
         int left = 0;
-        int maxLength = 0;
+        int ans = 0;
 
-        for (int right = 0; right < nums.length; right++) {
+        for(int right = 0; right < nums.length; right++) {
 
-            // Maintain decreasing maxDeque
-            while (!maxDeque.isEmpty() && nums[maxDeque.peekLast()] < nums[right]) {
-                maxDeque.pollLast();
-            }
-            maxDeque.offerLast(right);
+            // Maintain max deque (decreasing)
+            while(!maxD.isEmpty() && nums[right] > nums[maxD.peekLast()])
+                maxD.pollLast();
+            maxD.offerLast(right);
 
-            // Maintain increasing minDeque
-            while (!minDeque.isEmpty() && nums[minDeque.peekLast()] > nums[right]) {
-                minDeque.pollLast();
-            }
-            minDeque.offerLast(right);
+            // Maintain min deque (increasing)
+            while(!minD.isEmpty() && nums[right] < nums[minD.peekLast()])
+                minD.pollLast();
+            minD.offerLast(right);
 
             // Shrink window if invalid
-            while (nums[maxDeque.peekFirst()] - nums[minDeque.peekFirst()] > limit) {
-                if (maxDeque.peekFirst() == left) maxDeque.pollFirst();
-                if (minDeque.peekFirst() == left) minDeque.pollFirst();
+            while(nums[maxD.peekFirst()] - nums[minD.peekFirst()] > limit) {
+
+                if(maxD.peekFirst() == left)
+                    maxD.pollFirst();
+
+                if(minD.peekFirst() == left)
+                    minD.pollFirst();
+
                 left++;
             }
 
-            maxLength = Math.max(maxLength, right - left + 1);
+            // Update answer
+            ans = Math.max(ans, right - left + 1);
         }
 
-        return maxLength;
+        return ans;
     }
 }
