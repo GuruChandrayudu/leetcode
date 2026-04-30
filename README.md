@@ -82,6 +82,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/GuruChandrayudu/leetcode/tree/master/0049-group-anagrams) |
+| [0078-subsets](https://github.com/GuruChandrayudu/leetcode/tree/master/0078-subsets) |
 | [0169-majority-element](https://github.com/GuruChandrayudu/leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/GuruChandrayudu/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/GuruChandrayudu/leetcode/tree/master/0200-number-of-islands) |
@@ -150,6 +151,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/GuruChandrayudu/leetcode/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/GuruChandrayudu/leetcode/tree/master/0190-reverse-bits) |
 | [1763-longest-nice-substring](https://github.com/GuruChandrayudu/leetcode/tree/master/1763-longest-nice-substring) |
 ## Sliding Window
@@ -200,4 +202,8 @@
 |  |
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/GuruChandrayudu/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/GuruChandrayudu/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
