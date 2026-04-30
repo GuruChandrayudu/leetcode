@@ -17,6 +17,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/GuruChandrayudu/leetcode/tree/master/0049-group-anagrams) |
 | [0387-first-unique-character-in-a-string](https://github.com/GuruChandrayudu/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0474-ones-and-zeroes](https://github.com/GuruChandrayudu/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0721-accounts-merge](https://github.com/GuruChandrayudu/leetcode/tree/master/0721-accounts-merge) |
 | [0929-unique-email-addresses](https://github.com/GuruChandrayudu/leetcode/tree/master/0929-unique-email-addresses) |
 | [1763-longest-nice-substring](https://github.com/GuruChandrayudu/leetcode/tree/master/1763-longest-nice-substring) |
@@ -84,6 +85,7 @@
 | [0198-house-robber](https://github.com/GuruChandrayudu/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/GuruChandrayudu/leetcode/tree/master/0200-number-of-islands) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/GuruChandrayudu/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0474-ones-and-zeroes](https://github.com/GuruChandrayudu/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/GuruChandrayudu/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/GuruChandrayudu/leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/GuruChandrayudu/leetcode/tree/master/0721-accounts-merge) |
@@ -111,6 +113,7 @@
 | [0062-unique-paths](https://github.com/GuruChandrayudu/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/GuruChandrayudu/leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/GuruChandrayudu/leetcode/tree/master/0198-house-robber) |
+| [0474-ones-and-zeroes](https://github.com/GuruChandrayudu/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/GuruChandrayudu/leetcode/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/GuruChandrayudu/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Sorting
