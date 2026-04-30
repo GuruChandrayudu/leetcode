@@ -21,6 +21,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/GuruChandrayudu/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/GuruChandrayudu/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/GuruChandrayudu/leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/GuruChandrayudu/leetcode/tree/master/0547-number-of-provinces) |
@@ -31,6 +32,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/GuruChandrayudu/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/GuruChandrayudu/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/GuruChandrayudu/leetcode/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/GuruChandrayudu/leetcode/tree/master/0542-01-matrix) |
@@ -43,6 +45,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/GuruChandrayudu/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/GuruChandrayudu/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/GuruChandrayudu/leetcode/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/GuruChandrayudu/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -60,12 +63,14 @@
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/GuruChandrayudu/leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/GuruChandrayudu/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/GuruChandrayudu/leetcode/tree/master/0695-max-area-of-island) |
 | [0997-find-the-town-judge](https://github.com/GuruChandrayudu/leetcode/tree/master/0997-find-the-town-judge) |
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/GuruChandrayudu/leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/GuruChandrayudu/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/GuruChandrayudu/leetcode/tree/master/0695-max-area-of-island) |
 ## Topological Sort
