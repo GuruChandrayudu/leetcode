@@ -7,12 +7,14 @@
 | [0202-happy-number](https://github.com/GuruChandrayudu/leetcode/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/GuruChandrayudu/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0721-accounts-merge](https://github.com/GuruChandrayudu/leetcode/tree/master/0721-accounts-merge) |
+| [0929-unique-email-addresses](https://github.com/GuruChandrayudu/leetcode/tree/master/0929-unique-email-addresses) |
 | [0997-find-the-town-judge](https://github.com/GuruChandrayudu/leetcode/tree/master/0997-find-the-town-judge) |
 ## String
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/GuruChandrayudu/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0721-accounts-merge](https://github.com/GuruChandrayudu/leetcode/tree/master/0721-accounts-merge) |
+| [0929-unique-email-addresses](https://github.com/GuruChandrayudu/leetcode/tree/master/0929-unique-email-addresses) |
 ## Queue
 |  |
 | ------- |
@@ -76,6 +78,7 @@
 | [0695-max-area-of-island](https://github.com/GuruChandrayudu/leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/GuruChandrayudu/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/GuruChandrayudu/leetcode/tree/master/0733-flood-fill) |
+| [0929-unique-email-addresses](https://github.com/GuruChandrayudu/leetcode/tree/master/0929-unique-email-addresses) |
 | [0997-find-the-town-judge](https://github.com/GuruChandrayudu/leetcode/tree/master/0997-find-the-town-judge) |
 ## Matrix
 |  |
