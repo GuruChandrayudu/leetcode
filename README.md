@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/GuruChandrayudu/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0997-find-the-town-judge](https://github.com/GuruChandrayudu/leetcode/tree/master/0997-find-the-town-judge) |
 ## String
 |  |
 | ------- |
@@ -32,5 +33,10 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/GuruChandrayudu/leetcode/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/GuruChandrayudu/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+## Array
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/GuruChandrayudu/leetcode/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
