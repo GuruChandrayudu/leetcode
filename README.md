@@ -5,11 +5,13 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/GuruChandrayudu/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0721-accounts-merge](https://github.com/GuruChandrayudu/leetcode/tree/master/0721-accounts-merge) |
 | [0997-find-the-town-judge](https://github.com/GuruChandrayudu/leetcode/tree/master/0997-find-the-town-judge) |
 ## String
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/GuruChandrayudu/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0721-accounts-merge](https://github.com/GuruChandrayudu/leetcode/tree/master/0721-accounts-merge) |
 ## Queue
 |  |
 | ------- |
@@ -26,6 +28,7 @@
 | [0210-course-schedule-ii](https://github.com/GuruChandrayudu/leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/GuruChandrayudu/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/GuruChandrayudu/leetcode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/GuruChandrayudu/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/GuruChandrayudu/leetcode/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/GuruChandrayudu/leetcode/tree/master/0841-keys-and-rooms) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/GuruChandrayudu/leetcode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
@@ -39,6 +42,7 @@
 | [0542-01-matrix](https://github.com/GuruChandrayudu/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/GuruChandrayudu/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/GuruChandrayudu/leetcode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/GuruChandrayudu/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/GuruChandrayudu/leetcode/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/GuruChandrayudu/leetcode/tree/master/0841-keys-and-rooms) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/GuruChandrayudu/leetcode/tree/master/1129-shortest-path-with-alternating-colors) |
@@ -50,6 +54,7 @@
 | [0200-number-of-islands](https://github.com/GuruChandrayudu/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/GuruChandrayudu/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/GuruChandrayudu/leetcode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/GuruChandrayudu/leetcode/tree/master/0721-accounts-merge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/GuruChandrayudu/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -68,6 +73,7 @@
 | [0200-number-of-islands](https://github.com/GuruChandrayudu/leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/GuruChandrayudu/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/GuruChandrayudu/leetcode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/GuruChandrayudu/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/GuruChandrayudu/leetcode/tree/master/0733-flood-fill) |
 | [0997-find-the-town-judge](https://github.com/GuruChandrayudu/leetcode/tree/master/0997-find-the-town-judge) |
 ## Matrix
@@ -87,4 +93,8 @@
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/GuruChandrayudu/leetcode/tree/master/0542-01-matrix) |
+## Sorting
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/GuruChandrayudu/leetcode/tree/master/0721-accounts-merge) |
 <!---LeetCode Topics End-->
