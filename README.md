@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/GuruChandrayudu/leetcode/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/GuruChandrayudu/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0721-accounts-merge](https://github.com/GuruChandrayudu/leetcode/tree/master/0721-accounts-merge) |
 | [0997-find-the-town-judge](https://github.com/GuruChandrayudu/leetcode/tree/master/0997-find-the-town-judge) |
@@ -97,4 +98,12 @@
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/GuruChandrayudu/leetcode/tree/master/0721-accounts-merge) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/GuruChandrayudu/leetcode/tree/master/0202-happy-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/GuruChandrayudu/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
