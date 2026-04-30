@@ -11,6 +11,7 @@
 | [0721-accounts-merge](https://github.com/GuruChandrayudu/leetcode/tree/master/0721-accounts-merge) |
 | [0929-unique-email-addresses](https://github.com/GuruChandrayudu/leetcode/tree/master/0929-unique-email-addresses) |
 | [0997-find-the-town-judge](https://github.com/GuruChandrayudu/leetcode/tree/master/0997-find-the-town-judge) |
+| [1763-longest-nice-substring](https://github.com/GuruChandrayudu/leetcode/tree/master/1763-longest-nice-substring) |
 ## String
 |  |
 | ------- |
@@ -18,6 +19,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/GuruChandrayudu/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0721-accounts-merge](https://github.com/GuruChandrayudu/leetcode/tree/master/0721-accounts-merge) |
 | [0929-unique-email-addresses](https://github.com/GuruChandrayudu/leetcode/tree/master/0929-unique-email-addresses) |
+| [1763-longest-nice-substring](https://github.com/GuruChandrayudu/leetcode/tree/master/1763-longest-nice-substring) |
 ## Queue
 |  |
 | ------- |
@@ -122,8 +124,14 @@
 | ------- |
 | [0169-majority-element](https://github.com/GuruChandrayudu/leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/GuruChandrayudu/leetcode/tree/master/0190-reverse-bits) |
+| [1763-longest-nice-substring](https://github.com/GuruChandrayudu/leetcode/tree/master/1763-longest-nice-substring) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/GuruChandrayudu/leetcode/tree/master/0190-reverse-bits) |
+| [1763-longest-nice-substring](https://github.com/GuruChandrayudu/leetcode/tree/master/1763-longest-nice-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [1763-longest-nice-substring](https://github.com/GuruChandrayudu/leetcode/tree/master/1763-longest-nice-substring) |
 <!---LeetCode Topics End-->
