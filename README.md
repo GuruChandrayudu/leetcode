@@ -82,6 +82,7 @@
 | [0049-group-anagrams](https://github.com/GuruChandrayudu/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/GuruChandrayudu/leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/GuruChandrayudu/leetcode/tree/master/0200-number-of-islands) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/GuruChandrayudu/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0542-01-matrix](https://github.com/GuruChandrayudu/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/GuruChandrayudu/leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/GuruChandrayudu/leetcode/tree/master/0721-accounts-merge) |
@@ -124,6 +125,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/GuruChandrayudu/leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/GuruChandrayudu/leetcode/tree/master/0190-reverse-bits) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/GuruChandrayudu/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1763-longest-nice-substring](https://github.com/GuruChandrayudu/leetcode/tree/master/1763-longest-nice-substring) |
 ## Bit Manipulation
 |  |
@@ -134,4 +136,24 @@
 |  |
 | ------- |
 | [1763-longest-nice-substring](https://github.com/GuruChandrayudu/leetcode/tree/master/1763-longest-nice-substring) |
+## Binary Search
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/GuruChandrayudu/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/GuruChandrayudu/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/GuruChandrayudu/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/GuruChandrayudu/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/GuruChandrayudu/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
