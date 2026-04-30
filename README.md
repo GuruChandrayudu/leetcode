@@ -81,6 +81,7 @@
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/GuruChandrayudu/leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/GuruChandrayudu/leetcode/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/GuruChandrayudu/leetcode/tree/master/0078-subsets) |
 | [0169-majority-element](https://github.com/GuruChandrayudu/leetcode/tree/master/0169-majority-element) |
@@ -205,5 +206,6 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/GuruChandrayudu/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/GuruChandrayudu/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
