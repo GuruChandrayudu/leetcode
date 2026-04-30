@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/GuruChandrayudu/leetcode/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/GuruChandrayudu/leetcode/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/GuruChandrayudu/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0721-accounts-merge](https://github.com/GuruChandrayudu/leetcode/tree/master/0721-accounts-merge) |
@@ -12,6 +13,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/GuruChandrayudu/leetcode/tree/master/0049-group-anagrams) |
 | [0387-first-unique-character-in-a-string](https://github.com/GuruChandrayudu/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0721-accounts-merge](https://github.com/GuruChandrayudu/leetcode/tree/master/0721-accounts-merge) |
 | [0929-unique-email-addresses](https://github.com/GuruChandrayudu/leetcode/tree/master/0929-unique-email-addresses) |
@@ -73,6 +75,7 @@
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/GuruChandrayudu/leetcode/tree/master/0049-group-anagrams) |
 | [0200-number-of-islands](https://github.com/GuruChandrayudu/leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/GuruChandrayudu/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/GuruChandrayudu/leetcode/tree/master/0695-max-area-of-island) |
@@ -100,6 +103,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/GuruChandrayudu/leetcode/tree/master/0049-group-anagrams) |
 | [0721-accounts-merge](https://github.com/GuruChandrayudu/leetcode/tree/master/0721-accounts-merge) |
 ## Math
 |  |
